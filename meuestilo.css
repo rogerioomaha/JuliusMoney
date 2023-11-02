@@ -1,0 +1,38 @@
+
+<head>
+<style type="text/css">
+body {background-color: red}
+p {margin-left: 20px}
+</style>
+</head>
+
+	body {
+		color: #333333;
+		font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+		background-image: url(C:C:\Users\roger\OneDrive\Documentos\Site Python\Templates\imagem\colmeiatech.jpg);
+		<!--background-color: white;-->
+		width: 560px;
+		margin: auto;
+		padding: 10px;
+		box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+	}
+
+	h1 {
+		font-size: 1.5em;
+		color: rgb(58, 0, 112);
+	}
+
+	h2 {
+		border-bottom: 2px solid #333333;
+	}
+
+	figure {
+		background-color: #F2EDED
+		border: 1px solid #ccc;
+		text-align: center;
+	}
+
+	figcaption{
+		font-style: italic;
+	}
